@@ -3,7 +3,7 @@
 -  You can reach me at gitmphzz@gmail.com
 - [Linktree](https://linktr.ee/mphz)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mphzz&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=mphzz&theme=dark)](https://git.io/streak-stats)
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and am Learning</h2>
 <p align="left">
