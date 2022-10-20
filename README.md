@@ -15,7 +15,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="php" width="45" height="45"/>
 </p>
 
-[![Holopin](holopin.io/@mphz)](holopin.io/@mphz)
+[![@mphz's Holopin board](https://holopin.me/mphz)](https://holopin.io/@mphz)
+
 
 <!---
 mphzz/mphzz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
