@@ -1,4 +1,4 @@
-#  Hi, I’m @mphzz :)
+#  Hi, I’m Micah or @mphzz :)
 -  I’m looking to collaborate on any project that people are passionate about. I want to make meaningful contributions where I can!
 -  You can reach me at gitmphzz@gmail.com
 - [Linktree](https://linktr.ee/mphz)
